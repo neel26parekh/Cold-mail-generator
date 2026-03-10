@@ -1,4 +1,7 @@
 # 📧 Cold Mail Generator
+
+🔗 **Live Demo:** [https://cold-mail-generator-rf93.onrender.com](https://cold-mail-generator-rf93.onrender.com)
+
 Cold email generator for services company using groq, langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions. 
 
 ![alt text](<Screenshot 2025-05-23 at 12.05.44 AM.png>)
